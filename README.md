@@ -1,3 +1,3 @@
 #Diziler
-*Diziler1
-*Diziler2
+* Diziler1
+* Diziler2
